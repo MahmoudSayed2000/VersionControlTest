@@ -1,5 +1,5 @@
 uploaded ...
 
-second line uploaded ... by osama
+Second line uploaded ... by Osama
 
-third line uploaded... by mahmoud
+Third line uploaded... by Mahmoud
